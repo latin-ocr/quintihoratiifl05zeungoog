@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl05zeungoog_0010.png"; bbox 0 0 3150 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 3849 2 4644">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 3849 2 4644">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 3849 2 4644; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 3849 2 4644; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 462 591 963 1020">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 462 591 963 1020">
+     <span class='ocr_line' id='line_1_2' title="bbox 462 591 963 671; baseline -0.012 -9"><span class='ocrx_word' id='word_1_2' title='bbox 462 601 632 662; x_wconf 64' lang='lat' dir='ltr'><strong>namra</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 645 591 789 662; x_wconf 69' lang='lat' dir='ltr'><strong>Oolboe·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 803 593 963 671; x_wconf 59' lang='lat' dir='ltr'><strong>Isim</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 564 681 839 768; baseline -0.015 -20"><span class='ocrx_word' id='word_1_5' title='bbox 564 686 661 753; x_wconf 67' lang='lat' dir='ltr'><strong>Suu</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 680 681 733 768; x_wconf 63' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 752 683 839 752; x_wconf 75' lang='lat'>1017</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 481 767 924 843; baseline -0.016 -7"><span class='ocrx_word' id='word_1_8' title='bbox 481 775 591 843; x_wconf 66' lang='lat' dir='ltr'><strong>hom</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 614 779 676 834; x_wconf 75' lang='lat' dir='ltr'><strong>tho</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 704 771 860 838; x_wconf 70' lang='lat' dir='ltr'><strong>mm!</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 873 767 924 834; x_wconf 60' lang='grc' dir='ltr'><strong>οἱ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 500 858 905 927; baseline -0.02 -1"><span class='ocrx_word' id='word_1_12' title='bbox 500 869 522 926; x_wconf 84' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 524 878 626 924; x_wconf 69' lang='lat' dir='ltr'><strong>nmo·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 643 866 678 922; x_wconf 75' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 700 858 905 927; x_wconf 69' lang='lat' dir='ltr'><strong>liam-n</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 613 948 824 1020; baseline -0.005 -12"><span class='ocrx_word' id='word_1_16' title='bbox 613 953 704 1020; x_wconf 66' lang='lat' dir='ltr'><strong>nov</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 721 948 824 1010; x_wconf 75' lang='lat' dir='ltr'><strong>Yoek</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1580 4892">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1580 4892">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1580 4892; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1580 4892; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
